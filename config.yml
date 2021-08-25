@@ -1,6 +1,5 @@
 token: "z4FgOaJ0kbu0mUDr"    # lichess OAuth2 Token
 url: "https://lichess.org/"  # lichess base URL
-print(f"Good luck {user_name}")
 
 engine:                      # engine settings
   dir: "./engines/"          # dir containing engines, relative to this project
